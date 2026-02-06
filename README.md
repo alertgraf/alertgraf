@@ -1,4 +1,4 @@
-# Project Overview
+# Alert Graph-based Representation Analysis Framework
 
 This repository contains code for alert representation learning and evaluation based on GMAE, along with data processing scripts and LLM agent prompts.
 
